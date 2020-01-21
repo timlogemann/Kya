@@ -135,7 +135,7 @@
 			"scope":"storage.type",
 			"settings":
 			{
-				// "fontStyle":"italic",
+				"fontStyle":"italic",
 				"foreground":"#7F83FF"
 			}
 		},
@@ -153,7 +153,7 @@
 			"scope":"entity.other.inherited-class",
 			"settings":
 			{
-				"fontStyle":"italic ",
+				"fontStyle":"italic",
 				"foreground":"#FF4A98"
 			}
 		},
@@ -170,7 +170,7 @@
 			"scope":"variable.parameter",
 			"settings":
 			{
-				// "fontStyle":"italic",
+				"fontStyle":"italic",
 				"foreground":"#45B8FF"
 			}
 		},
@@ -213,7 +213,7 @@
 			"scope":"support.type, support.class",
 			"settings":
 			{
-				// "fontStyle":"italic",
+				"fontStyle":"italic",
 				"foreground":"#45B8FF"
 			}
 		},

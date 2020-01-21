@@ -1,8 +1,8 @@
 {
-    "name": "kya",
-    "displayName": "Kya",
-    "description": "Dark 80's neon theme. Inspired by Kay",
-    "version": "1.1.0",
+    "name": "k80s",
+    "displayName": "K80s",
+    "description": "Dark 80's neon theme. Modified from Kay and Kya",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.37.0"
     },
@@ -12,22 +12,29 @@
     "contributes": {
         "themes": [
             {
-                "label": "Kya",
+                "label": "K80s",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Kya-color-theme.json"
+                "path": "./themes/k80s-color-theme.json"
+            },
+            {
+                "label": "K80s Even Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/k80s-hc-color-theme.json"
             }
         ]
     },
-    "publisher": "madprops",
+    "publisher": "timlogemann",
     "keywords": [
         "theme",
         "dark",
+        "k80s",
         "kay",
+        "kya",
         "neon"
     ],
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/madprops/Kya.git"
+        "url": "https://github.com/timlogemann/vsc-k80s-theme.git"
     }
 }
